@@ -4,8 +4,8 @@
           xsi:schemaLocation="http://karaf.apache.org/xmlns/features/v1.4.0 http://karaf.apache.org/xmlns/features/v1.4.0">
 
     <feature name="my-bundles" version="1.0.0">
-        <bundle>mvn:com.example/MyBundleA/1.0.0</bundle>
-        <bundle>mvn:com.example/MyBundleB/1.0.0</bundle>
+        <bundle>mvn:com.example/mybundlea/1.0.0</bundle>
+        <bundle>mvn:com.example/mybundleb/1.0.0</bundle>
     </feature>
 
 </features>
