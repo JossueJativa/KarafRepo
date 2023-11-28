@@ -5,3 +5,4 @@ Bundle-SymbolicName: com.example.mybundlea
 Bundle-Version: 4.4.4
 Bundle-Activator: com.example.bundlea.Activator
 Export-Package: com.example.bundlea
+Bundle-ActivationPolicy: lazy
