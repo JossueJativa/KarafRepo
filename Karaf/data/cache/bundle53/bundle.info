@@ -1,6 +1,6 @@
 53
-jardir:C:\Users\User\GitRepositories\KarafRepo\Karaf\deploy\mykarafproject1
-2
+wrap:jardir:C:\Users\User\GitRepositories\KarafRepo\Karaf\deploy\mykarafproject1$Bundle-SymbolicName=C:\Users\User\GitRepositories\KarafRepo\Karaf\deploy\mykarafproject1&Bundle-Version=0.0.0
+32
 80
-1701030244087
+1701130936096
 0
